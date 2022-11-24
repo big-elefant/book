@@ -1,6 +1,24 @@
-# My Page
+---
+description: This is a brief introduction about the Git and Github
+---
 
-Hello, my friend. My name is Felipe and I'm testing this shit. I think it could be interesting, but I don't know exactly. I'm trying. This isn't easy, you know. Acknowledgment is huge. We have to have many organization methods to keep everything up-to-date and valuable.
+# Introduction
 
-This is the second paragraph, you know!?
+{% code title="header.h" overflow="wrap" lineNumbers="true" %}
+```cpp
+#ifndef __OI_H__
+#define __OI_H__
+
+class inhaClasse {
+    private:
+        int myValue;
+    public:
+        MinhaClasse();
+        getValue();
+        void setValue(int);
+};
+
+#endif
+```
+{% endcode %}
 

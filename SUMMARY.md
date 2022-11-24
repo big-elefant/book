@@ -1,3 +1,3 @@
 # Table of contents
 
-* [My Page](README.md)
+* [Introduction](README.md)
